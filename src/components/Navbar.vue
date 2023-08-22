@@ -58,5 +58,6 @@ export default defineComponent({
 
   #login-btn {
     border-radius: 15px;
+    background-color: orangered;
   }
 </style>
